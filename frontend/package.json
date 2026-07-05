@@ -19,7 +19,12 @@
     "zustand": "^4.4.7",
     "lucide-react": "^0.294.0",
     "clsx": "^2.0.0",
-    "tailwind-merge": "^2.1.0"
+    "tailwind-merge": "^2.1.0",
+    "framer-motion": "^10.16.16",
+    "class-variance-authority": "^0.7.0",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@fontsource/inter": "^5.0.16",
+    "@fontsource/outfit": "^5.0.8"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
